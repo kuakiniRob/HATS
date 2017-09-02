@@ -1,4 +1,8 @@
 # HATS
 Land Use Commission
 
-![alt text](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rJGO6uPd52u66yRXUsK9YAEgDY%26pid%3D15.1&f=1)
+![alt text](https://github.com/HACC17/HATS/blob/master/images/First%20time.PNG)
+![alt text](https://github.com/HACC17/HATS/blob/master/images/Home%20Page.PNG)
+![alt text](https://github.com/HACC17/HATS/blob/master/images/Returning.PNG)
+![alt text](https://github.com/HACC17/HATS/blob/master/images/about.PNG)
+![alt text]()
